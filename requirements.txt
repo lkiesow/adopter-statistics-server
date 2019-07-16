@@ -22,7 +22,7 @@ MarkupSafe==1.1.0
 marshmallow==2.18.0
 marshmallow-sqlalchemy==0.15.0
 passlib==1.7.1
-pycountry==18.12.8
+pycountry==19.7.15
 pycparser==2.19
 python-dateutil==2.7.5
 python-editor==1.0.3
