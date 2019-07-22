@@ -1,5 +1,7 @@
 # Adopter Statistics
 
+aklsjdhf
+
 This is a Flask server that is build to collect, store and administrate statistics reports and error events from 
 opencast instances (adopters). 
 In future opencast versions the admin will be asked to
